@@ -1,6 +1,6 @@
 ---
 title: "RF Paper Submitted to Gcubed!"
-excerpt: "North American Absolute arrival-time tomography<br/><img src='/images/Boyce_2019_Figure_7.jpg'>"
+excerpt: "North American Absolute arrival-time tomography<br/><img src='/images/CCP_XC_AF_SL.png'>"
 collection: portfolio
 ---
 
