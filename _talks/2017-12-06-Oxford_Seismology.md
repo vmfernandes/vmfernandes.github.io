@@ -1,7 +1,7 @@
 ---
 title: "Insights into the Tectonics of the Eastern North American Shield: A new Absolute P-wave Tomographic Model for North America"
 collection: talks
-type: "talk [invited]"
+type: "Talk [invited]"
 permalink: /talks/2017-12-06-Oxford_Seismology
 venue: "University of Oxford"
 date: 2017-12-06
