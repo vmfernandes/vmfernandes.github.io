@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Higlights"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+##Education
+
 * 2010-2014: MSci, Imperial College London & University of California Berkeley
 * 2014-2018: PhD, Imperial College London
 
-Experience
-======
+##Experience
 
 * 2018-2021: Research Associate, University of Cambridge
 
@@ -33,14 +32,14 @@ Experience
 <!--Skills
 ====== -->
 
-Publications
-======
+##Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+##Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -51,11 +50,17 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
-Service and leadership
-======
+##Service and leadership
 * 2019-Present: 10 Reviewed manuscripts for: JGR, Gcubed, GRL, GJI, NGeo, NComms
+* 2019-2020: Organiser: Cambridge Geophysics Seminar
+
+##Recent Supervisory roles
 * 2020: PI: advertised role, interviewed, employed, trained, mentored 3 summer research students
   * Students processed arrival-time datasets for Canadian-Alaskan imaging project, undertook independent projects, led methodological and tectonic discussion groups, gave final presentations.
-* 2019-2020: Organiser: Cambridge Geophysics Seminar
+
+##Recent Outreach
 * 2019-2020: Deep Earth Explorers exhibit, Sedgwick Museum, Cambridge (Opened Mar. 2020)
   * Exhibition content developer: interactive movies to explain seismic wave travel through Earth.
+
+
+Download Full CV [here](/files/BOYCE_CV_241020.pdf)
