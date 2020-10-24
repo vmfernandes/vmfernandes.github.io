@@ -8,7 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Good evening sports fans! Welcome to my personal website in progress... For now please check out my [Department webpage](https://www.esc.cam.ac.uk/directory/alistair-boyce) at the University of Cambridge or check out our new [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) page!
+Welcome to my personal website, click around to explore [publications](https://alistairboyce11.github.io/publications/), [Talks and Posters](https://alistairboyce11.github.io/talks/), [Academic portfolio](https://alistairboyce11.github.io/portfolio/), [Condensed CV](https://alistairboyce11.github.io/cv/) and [Fieldwork & Outdoors]()
+
+I am a global seismologist interested a range of questions concerning active and ancient mantle processes. I'm currently a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. Recently I've been tackling specific problems including:
+* Investigating signatures of tectonic processes preserved at the margins of Precambrian lithosphere using seismic tomography combined with evidence from the geological record
+* Incorporating small temporary seismic networks into continental/global tomographic models to illuminate typically poorly resolved features.
+* Understanding better the mantle structure and dynamics beneath Africa using passive seismic imaging of both bulk velocity and sharp discontinuities.
+
+I have developing interest in how isotropic mantle velocity structure should be best interpreted alongside measurements of seismic anisotropy and novel techniques that can be used to investigate sharp mantle discontinuity structure at high frequency.
+
+Please check out our new [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) museum exhibit website!
+
+More information may be found on my [Department webpage](https://www.esc.cam.ac.uk/directory/alistair-boyce) at the University of Cambridge.
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
