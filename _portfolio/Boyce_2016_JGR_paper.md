@@ -1,5 +1,5 @@
 ---
-title: "Paper published in JGR!"
+title: "Paper published in JGR"
 excerpt: "Eastern Canadian relative arrival-time tomography paper available<br/><img src='/images/Boyce_2016_Figure_8_crop.png'>"
 collection: portfolio
 date: "2016-06-18"
