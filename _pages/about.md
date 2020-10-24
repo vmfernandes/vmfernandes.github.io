@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br/><img src='/images/cali_sunset.jpeg'>
 
 Welcome to my personal website, click around to explore [publications](https://alistairboyce11.github.io/publications/), [Talks and Posters](https://alistairboyce11.github.io/talks/), [Academic portfolio](https://alistairboyce11.github.io/portfolio/), [Condensed CV](https://alistairboyce11.github.io/cv/) and [Fieldwork & Outdoors]()
 
 I am a global seismologist interested a range of questions concerning active and ancient mantle processes. I'm currently a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. Recently I've been tackling specific problems including:
-* Investigating signatures of tectonic processes preserved at the margins of Precambrian lithosphere using seismic tomography combined with evidence from the geological record
+* Investigating signatures of tectonic processes preserved at the margins of Precambrian lithosphere using seismic tomography combined with evidence from the geological record.
 * Incorporating small temporary seismic networks into continental/global tomographic models to illuminate typically poorly resolved features.
 * Understanding better the mantle structure and dynamics beneath Africa using passive seismic imaging of both bulk velocity and sharp discontinuities.
 

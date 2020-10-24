@@ -10,7 +10,7 @@ redirect_from:
 
 <br/><img src='/images/swiss_climb.jpeg'>
 
-##Fieldwork
+## Fieldwork
 
 ### TROODOS Network - 2017
 <br/><img src='/images/Cyprus_TROODOS.png'>
