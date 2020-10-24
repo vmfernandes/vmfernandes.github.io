@@ -11,14 +11,14 @@ redirect_from:
 
 Welcome to my personal website, click around to explore [publications](https://alistairboyce11.github.io/publications/), [Talks and Posters](https://alistairboyce11.github.io/talks/), [Academic portfolio](https://alistairboyce11.github.io/portfolio/), [Condensed CV](https://alistairboyce11.github.io/cv/) and [Fieldwork & Outdoors]()
 
-I am a global seismologist interested a range of questions concerning active and ancient mantle processes. I'm currently a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. Recently I've been tackling specific problems including:
+I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. I'm currently a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. Recently I've been tackling specific problems including:
 * Investigating signatures of tectonic processes preserved at the margins of Precambrian lithosphere using seismic tomography combined with evidence from the geological record.
 * Incorporating small temporary seismic networks into continental/global tomographic models to illuminate typically poorly resolved features.
 * Understanding better the mantle structure and dynamics beneath Africa using passive seismic imaging of both bulk velocity and sharp discontinuities.
 
 I have developing interest in how isotropic mantle velocity structure should be best interpreted alongside measurements of seismic anisotropy and novel techniques that can be used to investigate sharp mantle discontinuity structure at high frequency.
 
-Please check out our new [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) museum exhibit website!
+Please check out our research group's new [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) museum exhibit website!
 
 More information may be found on my [Department webpage](https://www.esc.cam.ac.uk/directory/alistair-boyce) at the University of Cambridge.
 
