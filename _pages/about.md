@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/><img src='/images/cali_sunset.jpeg'>
 
-Welcome to my personal website, click around to explore [publications](https://alistairboyce11.github.io/publications/), [Talks and Posters](https://alistairboyce11.github.io/talks/), [Academic portfolio](https://alistairboyce11.github.io/portfolio/), [Condensed CV](https://alistairboyce11.github.io/cv/) and [Fieldwork & Outdoors]()
+Welcome to my personal website, click around to explore [publications](https://alistairboyce11.github.io/publications/), [Talks and Posters](https://alistairboyce11.github.io/talks/), [Academic portfolio](https://alistairboyce11.github.io/portfolio/), [Condensed CV](https://alistairboyce11.github.io/cv/) and [Fieldwork & Outdoors](https://alistairboyce11.github.io/field-and-adventure/)
 
 I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. I'm currently a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. Recently I've been tackling specific problems including:
 * Investigating signatures of tectonic processes preserved at the margins of Precambrian lithosphere using seismic tomography combined with evidence from the geological record.
@@ -18,7 +18,9 @@ I am a global seismologist interested in a range of questions concerning active 
 
 I have developing interest in how isotropic mantle velocity structure should be best interpreted alongside measurements of seismic anisotropy and novel techniques that can be used to investigate sharp mantle discontinuity structure at high frequency.
 
-Please check out our research group's new [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) museum exhibit website!
+Please check out our research group's new [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) Sedgwick museum of Earth Science exhibit website!
+
+<br/><img src='/images/P_Tomo.gif'>"
 
 More information may be found on my [Department webpage](https://www.esc.cam.ac.uk/directory/alistair-boyce) at the University of Cambridge.
 
