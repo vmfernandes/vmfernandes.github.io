@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV - Higlights"
+title: "CV - Highlights"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -38,7 +38,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Talks
+## Presentations
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -50,11 +50,11 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
-## Service and leadership
+## Service and Leadership
 * 2019-Present: 10 Reviewed manuscripts for: JGR, Gcubed, GRL, GJI, NGeo, NComms
 * 2019-2020: Organiser: Cambridge Geophysics Seminar
 
-## Recent Supervisory roles
+## Recent Supervisory Roles
 * 2020: PI: advertised role, interviewed, employed, trained, mentored 3 summer research students
   * Students processed arrival-time datasets for Canadian-Alaskan imaging project, undertook independent projects, led methodological and tectonic discussion groups, gave final presentations.
 
