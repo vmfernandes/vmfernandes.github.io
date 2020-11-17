@@ -18,6 +18,8 @@ I am a global seismologist interested in a range of questions concerning active 
 
 I have developing interest in how isotropic mantle velocity structure should be best interpreted alongside measurements of seismic anisotropy and novel techniques that can be used to investigate sharp mantle discontinuity structure at high frequency.
 
+For the supplementary slides to accompany my __AGU Fall Meeting 2020__ virtual presentation, click [here](/files/ABOYCE_AGU_2020_Backup.pdf).
+
 Please check out our research group's new [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) Sedgwick museum of Earth Science exhibit website!
 
 <br/><img src='/images/P_Tomo.gif'>
