@@ -62,5 +62,11 @@ redirect_from:
 * 2019-2020: Deep Earth Explorers exhibit, Sedgwick Museum, Cambridge (Opened Mar. 2020)
   * Exhibition content developer: interactive movies to explain seismic wave travel through Earth.
 
+##Seismological Tools
+* Lead Developer: Absolute arrival-time recovery method (AARM - Boyce et. al., 2017).
+  * Available at: github.com/alistairboyce11/AARM
+* Developer: Seismological Methods Utilizing Receiver Functions in Python3 (with PI Cottaar). 
+  * Available at: doi.org/10.5281/zenodo.4337258
 
-Download Full CV [here](/files/BOYCE_CV_241020.pdf)
+
+Download Full CV [here](/files/BOYCE_CV_010121.pdf)
