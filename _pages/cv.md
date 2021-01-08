@@ -18,6 +18,25 @@ redirect_from:
 
 * 2018-2021: Research Associate, University of Cambridge
 
+## Recent Outreach
+* 2019-2020: Deep Earth Explorers exhibit, Sedgwick Museum, Cambridge (Opened Mar. 2020)
+  * Exhibition content developer - interactive movies to explain seismic wave travel through Earth.
+
+## Recent Supervisory Roles
+* 2020: PI - advertised role, interviewed, employed, trained, mentored 3 summer research students
+  * Students processed arrival-time datasets for Canadian-Alaskan imaging project, undertook independent projects, led methodological and tectonic discussion groups, gave final presentations.
+
+## Service and Leadership
+* 2019-Present: 10 Reviewed manuscripts for: JGR, Gcubed, GRL, GJI, NGeo, NComms
+* 2019-2020: Organiser - Cambridge Geophysics Seminar
+
+## Seismological Tools
+* Lead Developer - Absolute arrival-time recovery method (AARM - Boyce et. al., 2017)
+  * Available [here](https://github.com/alistairboyce11/AARM).
+* Developer - Seismological Methods Utilizing Receiver Functions in Python3 (with PI Cottaar)
+  * Available [here](https://doi.org/10.5281/zenodo.4337258).
+
+Download Full CV [here](/files/BOYCE_CV_010121.pdf).
 
 <!-- * Summer 2015: Research Assistant
   * Github University
@@ -50,23 +69,3 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
-## Service and Leadership
-* 2019-Present: 10 Reviewed manuscripts for: JGR, Gcubed, GRL, GJI, NGeo, NComms
-* 2019-2020: Organiser: Cambridge Geophysics Seminar
-
-## Recent Supervisory Roles
-* 2020: PI: advertised role, interviewed, employed, trained, mentored 3 summer research students
-  * Students processed arrival-time datasets for Canadian-Alaskan imaging project, undertook independent projects, led methodological and tectonic discussion groups, gave final presentations.
-
-## Recent Outreach
-* 2019-2020: Deep Earth Explorers exhibit, Sedgwick Museum, Cambridge (Opened Mar. 2020)
-  * Exhibition content developer: interactive movies to explain seismic wave travel through Earth.
-
-##Seismological Tools
-* Lead Developer: Absolute arrival-time recovery method (AARM - Boyce et. al., 2017).
-  * Available at: github.com/alistairboyce11/AARM
-* Developer: Seismological Methods Utilizing Receiver Functions in Python3 (with PI Cottaar). 
-  * Available at: doi.org/10.5281/zenodo.4337258
-
-
-Download Full CV [here](/files/BOYCE_CV_010121.pdf)
