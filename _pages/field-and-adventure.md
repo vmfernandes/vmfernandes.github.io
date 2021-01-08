@@ -30,9 +30,56 @@ During the period May 2015 - August 2015 I took part in the servicing and pull i
 
 ## Adventure
 
-My passion outside of seismology is cycling. I'll fill in more details about past and upcoming trips when I can. For now here's a short GIF showing the first leg of the "Home 2 Rome" trip I did between my Phd and starting my Postdoc in Cambridge. More Pictures and description to follow...
+My passion outside of seismology is cycling. Below are a few details of past trips. 
+
+### Home 2 Rome - Summer 2018
+
+In the summer of 2018, after my Phd viva and before starting my Postdoc in Cambridge I rode my bicycle >2,200km from my parents home in Warwickshire, UK to Rome, Italy (only including one or two trains...)
+
+For the first leg in France (Caen - Bordeaux), I was joined by good mate Matt. We passed some awesome places, including the Le Mans circuit and plenty of castles.
 
 <br/><img src='/images/H2R_PT1.gif'>
 
 <br/><img src='/images/indianapolis.jpg'>
 
+<br/><img src='/images/mulsane.jpg'>
+
+<br/><img src='/images/angers.jpg'>
+
+<br/><img src='/images/Matt_beach.jpg'>
+
+Matt headed home and I hopped on a train across to Nimes. I headed over Mont Ventoux (1,909m), down to the Mediterranean, and along the coast into Italy.
+
+<br/><img src='/images/H2R_PT2.gif'>
+
+<br/><img src='/images/ventoux.jpg'>
+
+<br/><img src='/images/frejus.jpg'>
+
+My cousin Iso came out to Genoa and joined me on the next leg to Florence via Porto Fino, the Cinque Terre, Pisa and the beautiful town of Lucca (I didn't take any good pictures there though...).
+
+<br/><img src='/images/H2R_PT3.gif'>
+
+<br/><img src='/images/porto_fino.jpg'>
+
+<br/><img src='/images/cinque_terre_1.jpg'>
+
+<br/><img src='/images/cinque_terre_2.jpg'>
+
+<br/><img src='/images/iso_pisa.jpg'>
+
+<br/><img src='/images/al_pisa.jpg'>
+
+<br/><img src='/images/florence.jpg'>
+
+On the last leg I rode through amazing hill-top Tuscan villages, along poplar-tree lined roads via Siena and down through the Lago di Vico caldera ending the in Rome where my partner Vic was waiting for the last photo!
+
+<br/><img src='/images/H2R_PT4.gif'>
+
+<br/><img src='/images/poplars.jpg'>
+
+<br/><img src='/images/siena.jpg'>
+
+<br/><img src='/images/roma.jpg'>
+
+Crossing my fingers for more future bike-packing trips soon!
