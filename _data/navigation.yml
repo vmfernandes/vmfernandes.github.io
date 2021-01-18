@@ -8,15 +8,15 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
-  #
-  # - title: "Teaching"
-  #   url: /teaching/
-  #
-  # - title: "Outreach"
-  #   url: /year-archive/
+  
+  - title: "Teaching"
+    url: /teaching/
+  
+#  - title: "Outreach"
+#    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Fieldwork and Adventure"
-    url: /field-and-adventure/
+  - title: "Fieldwork"
+    url: /fieldwork/

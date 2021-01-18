@@ -7,25 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><img src='/images/cali_sunset.jpeg'>
+<br/><img src='/images/mt_kenya.jpeg'>
 
-Welcome to my personal website, click around to explore: [Publications](https://alistairboyce11.github.io/publications/), [Presentations](https://alistairboyce11.github.io/presentations/), [Academic Portfolio](https://alistairboyce11.github.io/portfolio/), [Condensed CV](https://alistairboyce11.github.io/cv/) and [Fieldwork & Adventure](https://alistairboyce11.github.io/field-and-adventure/)
+__WEBSITE UNDER CONSTRUCTION__
 
-I am a global seismologist interested in a range of questions concerning active and ancient mantle processes. I'm currently a Postdoctoral Research Associate working with Sanne Cottaar at the University of Cambridge. Recently I've been tackling specific problems including:
-* Investigating signatures of tectonic processes preserved at the margins of Precambrian lithosphere using seismic tomography combined with evidence from the geological record.
-* Incorporating small temporary seismic networks into continental/global tomographic models to illuminate typically poorly resolved features.
-* Understanding better the mantle structure and dynamics beneath Africa using passive seismic imaging of both bulk velocity and sharp discontinuities.
+<!-- Welcome to my personal website, click around to explore: [Publications](https://alistairboyce11.github.io/publications/), [Presentations](https://alistairboyce11.github.io/presentations/), [Academic Portfolio](https://alistairboyce11.github.io/portfolio/), [Condensed CV](https://alistairboyce11.github.io/cv/) and [Fieldwork & Adventure](https://alistairboyce11.github.io/field-and-adventure/) -->
 
-I have developing interest in how isotropic mantle velocity structure should be best interpreted alongside measurements of seismic anisotropy and novel techniques that can be used to investigate sharp mantle discontinuity structure at high frequency.
+Commodo elit at imperdiet dui accumsan. Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Sit amet volutpat consequat mauris. Est sit amet facilisis magna etiam. Diam phasellus vestibulum lorem sed risus ultricies. Duis tristique sollicitudin nibh sit amet. Pretium nibh ipsum consequat nisl vel pretium. At auctor urna nunc id cursus metus aliquam. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dis parturient montes nascetur ridiculus. Sed odio morbi quis commodo odio. Leo duis ut diam quam nulla porttitor massa. Sed tempus urna et pharetra pharetra massa. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat. Enim tortor at auctor urna nunc id cursus metus.
 
-For the supplementary slides to accompany my __AGU Fall Meeting 2020__ virtual presentation, click [here](/files/ABOYCE_AGU_2020_Backup.pdf).
-
-Please check out our research group's new [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) Sedgwick museum of Earth Science exhibit website!
-
-<br/><img src='/images/P_Tomo.gif'>
-
-More information may be found on my [Department webpage](https://www.esc.cam.ac.uk/directory/alistair-boyce) at the University of Cambridge.
-
+Website link like this to [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/)
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

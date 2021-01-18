@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Alistair Boyce"
+title                    : "Victoria M. Fernandes"
 title_separator          : "-"
-name                     : &name "Alistair Boyce"
+name                     : &name "Victoria M. Fernandes"
 description              : &description ""
-url                      : https://alistairboyce11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vmfernandes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alistairboyce11/alistairboyce11.github.io"
-teaser                   : "AB_profile_photo.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "vmfernandes/vmfernandes.github.io"
+teaser                   : "VMF_profile_photo.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alistair"
-  avatar           : "AB_profile_photo.jpg"
-  bio              : "Seismologist, personal website creator in training..."
-  location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  name             : "Victoria"
+  avatar           : "VMF_profile_photo.jpg"
+  bio              : "Postdoctoral Research Associate"
+  location         : "London, UK"
+  employer         : "Imperial College London"
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=Ik1KLekAAAAJ"
-  email            : "ab2568 [at] cam.ac.uk"
-  researchgate     :  "https://www.researchgate.net/profile/Alistair_Boyce"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=QlS-EjYAAAAJ&hl=en"
+  email            : "v.fernandes17 [at] imperial.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Victoria_Fernandes"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alistairboyce11"
+  github           : "vmfernandes"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "studio.vmfernandes"
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-2666-9517"
+  orcid            : "https://orcid.org/0000-0002-5344-652X"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "alistair_boyce"
+  twitter          : "vmfernandes13"
   vine             :
   weibo            :
   xing             :
