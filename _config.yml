@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Victoria"
-  avatar           : "VMF_profile_photo.jpg"
+  avatar           : "VMF_profile_photo.jpeg"
   bio              : "Postdoctoral Research Associate"
-  location         : "London, UK"
-  employer         : "Imperial College London"
+  location         : 
+  employer         : "Imperial College London, UK"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=QlS-EjYAAAAJ&hl=en"
   email            : "v.fernandes17 [at] imperial.ac.uk"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  outreach:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _outreach
   - scope:
       path: ""
-      type: portfolio
+      type: outreach
     values:
       layout: single
       author_profile: true
