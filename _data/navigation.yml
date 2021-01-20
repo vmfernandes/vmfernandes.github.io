@@ -6,17 +6,18 @@ main:
   - title: "Presentations"
     url: /presentations/    
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
   
   - title: "Teaching"
     url: /teaching/
   
-#  - title: "Outreach"
-#    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+ - title: "Outreach"
+   url: /outreach/
     
   - title: "Fieldwork"
     url: /fieldwork/
+
+  - title: "CV"
+    url: /cv/
+    
