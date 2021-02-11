@@ -8,15 +8,15 @@ location: "Italy"
 excerpt: "<br/><img src='/images/students_apennines2019.jpeg'>"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Coordinator: Dr. Alex Whittaker
 
-2020
-======
+This course uses a transect across the Italian Apennines to understand the growth and decay of mountain belts through time.  The course requires the synthesis and integration of a wide range of geomorphological, sedimentological, petrological and geophysical data.
 
-Virtual fieldtrip.
+_2020_
 
-2019
-======
+Due to the Covid-19 pandemic, this fieldtrip was converted to a virtual module, taught over 8 days.
+
+_2019_
 
 <br/><img src='/images/students_apennines2019.jpeg'>
 

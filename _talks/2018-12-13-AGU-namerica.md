@@ -1,0 +1,13 @@
+---
+title: "Evolution of the North American Landscape: New Insights from Biostratigraphy, Geomorphology and Thermochronology"
+collection: talks
+type: "Poster"
+permalink: /talks/2018-12-13-AGU-namerica
+venue: "American Geophysical Union"
+date: 2018-12-13
+location: "Washington, DC, USA"
+---
+
+[More information here](https://www.essoar.org/doi/10.1002/essoar.10500772.1)
+
+Reconstructing patterns of topographic evolution is key to our understanding of the various processes responsible for landscape development. Suites of existing geodynamic models suggest the North American landscape has been influenced by a history of evolving dynamic support. This study investigates the extent to which this process has played a role in generating the elevation and long-wavelength topographic relief observed. Review of studies investigating distribution of magmatism, marine sedimentary rocks, sediment flux, thermochronology models, paleoaltimetry and geomorphic analyses all point towards a staged uplift history of North America since the Late Cretaceous. Another way to investigate regional uplift is to use deposits of known age, containing paleo-water depth indicators, as a datum against which post-depositional uplift can be measured. Compilations of paleobathymetry from interpreted biostratigraphic and stratigraphic markers, compared to their present-day elevations, are therefore exploited to give detailed geologic constraints on surface uplift. Our results indicate > 2 km of long-wavelength differential uplift has developed in the continental interior during the Cenozoic. In conjunction with these datasets, the uplift history of North America can be calculated by considering the geomorphic evolution of continental drainage. Results of a calibrated inverse stream-power model are presented, where > 4000 river longitudinal profiles are used to calculate best-fitting smooth spatio-temporal histories of uplift rate. The resulting model also points towards a staged uplift history in most regions of high elevation. Evaluation of results using the biostratigraphic and stratigraphic databases shows the model is broadly consistent with the geological record. As a further validation of the inversion we present a continental landscape evolution model, fed with the uplift history and erosional parameters from the inversion. This outputs elevation, discharge, denudation and sedimentary flux histories that are consistent with our inverse modeling schemes and compiled datasets of sediment flux and low temperature thermochronology. Data and modeling results are in agreement with geodynamic models predicting > 1 km dynamic support of the North American continent.

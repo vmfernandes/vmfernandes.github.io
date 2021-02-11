@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Victoria Milanez Fernandes"
+title: "Dr Victoria Milanez Fernandes"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,24 @@ redirect_from:
 ---
 <br/><img src='/images/mt_kenya_wide.jpeg'>
 
-__WEBSITE UNDER CONSTRUCTION__
+__Welcome!__
 
 <!-- Welcome to my personal website, click around to explore: [Publications](https://alistairboyce11.github.io/publications/), [Presentations](https://alistairboyce11.github.io/presentations/), [Academic Portfolio](https://alistairboyce11.github.io/portfolio/), [Condensed CV](https://alistairboyce11.github.io/cv/) and [Fieldwork & Adventure](https://alistairboyce11.github.io/field-and-adventure/) -->
 
-Commodo elit at imperdiet dui accumsan. Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Sit amet volutpat consequat mauris. Est sit amet facilisis magna etiam. Diam phasellus vestibulum lorem sed risus ultricies. Duis tristique sollicitudin nibh sit amet. Pretium nibh ipsum consequat nisl vel pretium. At auctor urna nunc id cursus metus aliquam. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dis parturient montes nascetur ridiculus. Sed odio morbi quis commodo odio. Leo duis ut diam quam nulla porttitor massa. Sed tempus urna et pharetra pharetra massa. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat. Enim tortor at auctor urna nunc id cursus metus.
+I am a Postdoctoral Research Associate working with Dr. Gareth Roberts at Imperial College London. In my research, I investigate how we can combine geological and geophyscial observations to constrant the evolution of the Earth's surface. I am particularly interested in the role of sub-plate support on the generation of continental-scale landscape patterns Currently, I am part of the MC2: Mantle Convection Constrained Project, which aims to generate the most spatially and temporally complete set of observational constraints on mantle circulation.
 
-Website link like this to [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/)
+_Primary research interests:_
+Constraining the timing and patterns of mantle-driven vertical motions of the Earth's surface.
+Quantifying landscape evolution at various spatio-temporal scales fom a modelling and observational perspective.
+Paleoenvironmental and paleobathymetric reconstructions of marine environments. 
+Constraining subsidence and sedimentary flux history at passive continental margins.
 
-<br/><img src='/images/parnaiba_view_wide.jpeg'>
+
+<!-- Website link like this to [Deep Earth Explorers](https://deepearth.esc.cam.ac.uk/) -->
+
+<!-- MC2, Primary investigator: Huw Davies (Cardiff University), Collaborators: Morten Andersen (Cardiff University), James Wookey (University of Bristol), Tim Elliott (University of Bristol), Ana Ferreira (UCL), Paula Koelemeijer (Royal Holloway University of London), Gareth Roberts (Imperial College London), Andy Biggin (University of Liverpool), Oliver Shorttle (University of Cambridge), Partners and Collaborators: Dietmar Müller (University of Sydney), Dan Bower (University of Bern), Patrick Cordier (UST Lille), Rhodri Davies (Australian National University), Christophe Zaroli (University of Strasbourg), Mark Ghiorso (OFM Research) -->
+
+<br/><img src='/images/top_mt_kenya_wide.jpeg'>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
