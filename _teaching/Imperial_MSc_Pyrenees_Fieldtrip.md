@@ -8,18 +8,18 @@ location: "Spain"
 excerpt: "<br/><img src='/images/geology_pyrenees2019.jpeg'>"
 ---
 
-Teaching assistant for MSc Petroleum Geoscience field trip to the spanish Pyrenees. Lead by Dr. Lydia Lonergan and Prof. Gary Hampson. Focus on the structural evolution and sedimentology of intramontane and foreland basins.
+Coordinator: Dr. Lydia Lonergan and Prof. Gary Hampson
 
-2019
-======
+Teaching assistant for MSc Petroleum Geoscience field trip to the spanish Pyrenees. Focus on the structural evolution and sedimentology of intramontane and foreland basins.
+
+_2019_
 
 <br/><img src='/images/students_pyrenees2019.jpeg'>
 
 <br/><img src='/images/geology_pyrenees2019.jpeg'>
 
 
-2018
-======
+_2018_
 
 <br/><img src='/images/students_pyrenees2018.jpeg'>
 

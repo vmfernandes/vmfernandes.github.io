@@ -19,26 +19,25 @@ Download Full CV [here](/files/VMF_academic_cv.pdf).
 
 ## Awards
 
-* 2020 Imperial College London - Faculty of Engineering Graduate Teaching Assistant of the Year
-* 2020 Imperial College London - Graduate Teaching Assistant of the Year for Earth Sciences and Engineering
-* 2020 Imperial College London - Outstanding Graduate Teaching Assistant Student Union Choice Award nomination
-* 2019 Imperial College London - Janet Watson Research Prize for Excellence in Research
-* 2019 Imperial College Trust - Award for invited conference talk by PhD student
-* 2018 AGU Fall Meeting - Outstanding Student Presentation Award
+* 2020 _Faculty of Engineering Graduate Teaching Assistant of the Year_ Imperial College London
+* 2020 _Earth Sciences and Engineering Graduate Teaching Assistant of the Year_ Imperial College London
+* 2020 _Outstanding Graduate Teaching Assistant Student Union Choice Award nomination_ Imperial College London
+* 2019 _Janet Watson Research Prize for Excellence in Research_ Imperial College London
+* 2019 _Award for invited conference talk by PhD student_ Imperial College Trust
+* 2018 _Outstanding Student Presentation Award_ AGU Fall Meeting
 
 ## Student Supervision
 
-* MSci Projects
-  * 2019: I. Wapenhans, "North American rivers: Scale-dependence, scale-variance and correlation to environment"
-  * 2018: M. Morris, "Neogene evolution of the New Jersey margin"
-  * 2018: S. Mitchell, "Long-term response to faulting: Insights from tectonic and landscape evolution modelling"
-  * 2017: B. Conway-Jones, "Neogene Epeirogeny of Iberia"
+* 2019, I. Wapenhans, _MSci Project_, North American rivers: Scale-dependence, scale-variance and correlation to environment.
+* 2018, M. Morris, _MSci Project_, Neogene evolution of the New Jersey margin.
+* 2018, S. Mitchell,  _MSci Project_, Long-term response to faulting: Insights from tectonic and landscape evolution modelling.
+* 2017, B. Conway-Jones, _MSci Project_, Neogene Epeirogeny of Iberia.
 
 ## Service and Leadership
 
-* 2019-2021: Earth Science and Engineering Athena SWAN Committee
-* 2018-2019: Earth Science and Engineering Graduate Society Committee
-* 2017-2018: EAGE Student Chapter - Graduate Student Representative
+* 2019-2021 Earth Science and Engineering Athena SWAN Committee
+* 2018-2019 Earth Science and Engineering Graduate Society Committee
+* 2017-2018 EAGE Student Chapter - Graduate Student Representative
 
 ## Publications
 
@@ -57,3 +56,4 @@ Download Full CV [here](/files/VMF_academic_cv.pdf).
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
