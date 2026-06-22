@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research — Victoria Milanez Fernandes</title>
+<meta name="description" content="Research themes, publications, invited talks and conference abstracts in geomorphology, climate and geodynamics.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Space+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<header>
+  <nav class="nav">
+    <a class="brand" href="index.html">vmf</a>
+    <div class="navlinks">
+      <a href="about.html">about &rarr;</a>
+      <a class="active" href="research.html">research &rarr;</a>
+      <a href="field.html">field &rarr;</a>
+      <a href="teaching.html">teaching &rarr;</a>
+      <a href="beyond.html">beyond &rarr;</a>
+      <a class="contact" href="contact.html">contact &rarr;</a>
+    </div>
+  </nav>
+</header>
+
+<main class="page">
+  <p class="eyebrow">02 &middot; Research</p>
+  <h1 class="page-title">Three questions</h1>
+  <p class="page-lead">I work where surface processes meet deep Earth &mdash; using rivers, terraces and sediments to read how landscapes record <em>climate cycles and mantle motion</em>.</p>
+
+  <div class="cardgrid-3 section-gap">
+    <a class="fcard" href="research.html#publications">
+      <div class="fthumb"><img src="assets/images/patagonia.jpg" alt="Glaciated terraces"></div>
+      <div class="top"><h3>Terraces as climate archives</h3></div>
+      <p>Dating Patagonian &amp; Tasmanian river terraces with cosmogenic &sup1;&#8304;Be.</p>
+    </a>
+    <a class="fcard" href="research.html#publications">
+      <div class="fthumb"><img src="assets/images/earth.jpg" alt="Earth from orbit"></div>
+      <div class="top"><h3>Dynamic topography</h3></div>
+      <p>Mantle-driven uplift written into continental landscapes.</p>
+    </a>
+    <a class="fcard" href="research.html#publications">
+      <div class="fthumb"><img src="assets/images/lena.jpg" alt="Braided river"></div>
+      <div class="top"><h3>Sediment routing</h3></div>
+      <p>Source-to-sink geochemistry and landscape-evolution models.</p>
+    </a>
+  </div>
+
+  <div class="section-gap" id="publications">
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-tab="publications">Publications</button>
+      <button class="tab" data-tab="talks">Invited talks</button>
+      <button class="tab" data-tab="abstracts">Conference abstracts</button>
+    </div>
+    <div class="chips" id="chips">
+      <button class="chip active" data-filter="all">all</button>
+      <button class="chip" data-filter="terraces">terraces</button>
+      <button class="chip" data-filter="dynamic-topo">dynamic topo</button>
+      <button class="chip" data-filter="sediment">sediment</button>
+      <button class="chip" data-filter="student">student-led</button>
+      <span class="chip-note">newest first</span>
+    </div>
+    <div id="output"></div>
+  </div>
+</main>
+
+<footer class="foot">
+  <div class="foot-in">
+    <span class="name">Victoria Milanez Fernandes</span>
+    <div class="links">
+      <a href="mailto:victoria.milanezfernandes@monash.edu">email</a>
+      <a href="https://scholar.google.com/citations?user=QlS-EjYAAAAJ&hl=en">scholar</a>
+      <a href="https://research.monash.edu/en/persons/victoria-milanez-fernandes">monash</a>
+      <a href="contact.html">contact</a>
+    </div>
+    <span class="copy">&copy; <span id="yr"></span> Victoria Milanez Fernandes &middot; Geomorphologist &middot; Monash University</span>
+  </div>
+</footer>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+<script src="assets/js/publications-data.js"></script>
+<script src="assets/js/publications.js"></script>
+</body>
+</html>
