@@ -32,3 +32,20 @@ Save, commit, push. The Research page re-sorts (newest first) and re-filters aut
 
 ---
 
+## Images folder structure
+
+```
+assets/images/
+  shared/     ← satellite images reused as thumbnails across all pages
+  about/      ← portrait and bio photos
+  research/   ← figures, maps, diagrams
+  field/      ← expedition and fieldwork photos
+  teaching/   ← teaching-related images
+  beyond/     ← outreach and service photos
+  blog/       ← images for individual blog posts
+```
+
+Drop new images into the subfolder that matches the page they appear on.
+
+---
+
