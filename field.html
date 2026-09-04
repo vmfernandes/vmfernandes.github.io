@@ -39,26 +39,7 @@
 
   <div class="mappanel section-gap">
     <span class="cap">EXPEDITION MAP &middot; 2014&ndash;2026</span>
-    <svg viewBox="0 0 628 240" role="img" aria-label="World map showing fieldwork locations">
-      <g fill="rgba(186,180,160,0.06)" stroke="#bab4a0" stroke-width="1" stroke-linejoin="round" stroke-linecap="round">
-        <path d="M55 42 L110 30 L152 36 L150 52 L175 64 L165 86 L130 104 L112 96 L118 80 L92 84 L78 68 L60 60 Z"/>
-        <path d="M150 120 L182 116 L198 138 L192 158 L176 188 L162 214 L152 224 L148 206 L158 178 L150 150 L144 134 Z"/>
-        <path d="M205 24 L232 26 L238 44 L220 54 L206 42 Z"/>
-        <path d="M292 50 L322 44 L342 52 L336 62 L350 72 L330 82 L312 78 L300 68 L294 58 Z"/>
-        <path d="M300 92 L352 86 L378 104 L380 128 L364 158 L344 188 L330 202 L320 184 L320 150 L308 126 Z"/>
-        <path d="M352 46 L430 36 L500 40 L560 52 L578 70 L556 86 L516 86 L486 96 L470 90 L446 98 L424 92 L398 98 L372 88 L356 68 Z"/>
-        <path d="M508 150 L566 146 L588 166 L566 190 L524 192 L506 174 L500 160 Z"/>
-      </g>
-      <g>
-        <circle class="wpin" cx="258" cy="52" r="4.5" fill="#01913b"><title>Iceland</title></circle>
-        <circle class="wpin" cx="300" cy="58" r="4.5" fill="#01913b"><title>Scotland</title></circle>
-        <circle class="wpin" cx="326" cy="78" r="4.5" fill="#01913b"><title>Italy</title></circle>
-        <circle class="wpin" cx="452" cy="76" r="4.5" fill="#01913b"><title>Kyrgyzstan</title></circle>
-        <circle class="wpin" cx="178" cy="150" r="4.5" fill="#01913b"><title>Brazil</title></circle>
-        <circle class="wpin" cx="158" cy="206" r="4.5" fill="#01913b"><title>Patagonia</title></circle>
-        <circle class="wpin" cx="566" cy="188" r="4.5" fill="#01913b"><title>Tasmania</title></circle>
-      </g>
-    </svg>
+    <svg id="fieldmap" viewBox="0 0 700 360" role="img" aria-label="World map showing fieldwork locations"></svg>
   </div>
 
   <div class="cardgrid-3 section-gap">
@@ -84,5 +65,34 @@
   </div>
 </footer>
 <script>document.getElementById('yr').textContent=new Date().getFullYear();</script>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script>
+  const sites = [
+    ["Iceland",    -18.6,  64.9],
+    ["Scotland",    -4.2,  56.8],
+    ["Italy",       16.3,  39.0],
+    ["Kyrgyzstan",  74.8,  41.5],
+    ["Brazil",     -42.5,  -8.5],
+    ["Patagonia",  -70.0, -50.0],
+    ["Tasmania",   146.8, -42.0],
+  ];
+
+  const svg = d3.select("#fieldmap");
+  const projection = d3.geoNaturalEarth1().fitSize([700, 360], { type: "Sphere" });
+  const path = d3.geoPath(projection);
+
+  d3.json("assets/data/ne_110m_coastline.geojson").then(geo => {
+    svg.append("path").datum(geo).attr("d", path)
+       .attr("fill", "none").attr("stroke", "#bab4a0").attr("stroke-width", 0.6);
+
+    svg.selectAll("circle").data(sites).join("circle")
+       .attr("class", "wpin")
+       .attr("cx", d => projection([d[1], d[2]])[0])
+       .attr("cy", d => projection([d[1], d[2]])[1])
+       .attr("r", 4.5).attr("fill", "#01913b")
+       .append("title").text(d => d[0]);
+  }).catch(err => console.error("Could not load coastline.geojson:", err));
+</script>
 </body>
 </html>
